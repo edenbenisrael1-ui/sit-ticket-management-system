@@ -2,7 +2,7 @@
 B2B IT ticket management system built on Microsoft Power Platform (capstone project)
 # SIT - IT Service Ticket Management System
 
-Final-year capstone project — B.Sc. Industrial Engineering & Management (Information Systems).
+Final-year capstone project - B.Sc. Industrial Engineering & Management (Information Systems).
 A B2B IT service-desk ticketing system built on the Microsoft Power Platform for an
 IT services company (~70 employees), replacing a manual process previously run on a legacy CRM.
 
