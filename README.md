@@ -32,24 +32,24 @@ Developed with the V-Model. A feasibility study compared Microsoft 365, Zendesk,
 using an Expected Utility Model (benefit + normalized cost); Microsoft 365 was selected.
 
 ## Screenshots
-**Create a new ticket screen**
-<img width="832" height="454" alt="create new case - 1" src="https://github.com/user-attachments/assets/617252ed-de77-4d65-bc1e-2d31c74f6986" />
 
-**Ticket queue screen**
-<img width="832" height="454" alt="ticket queue - 2" src="https://github.com/user-attachments/assets/8e2eae5e-5383-4d5f-ab22-b2993150f2a4" />
+### Create a new ticket
+<img width="832" alt="create new case" src="https://github.com/user-attachments/assets/617252ed-de77-4d65-bc1e-2d31c74f6986" />
 
-**Ticket details screen**
-<img width="832" height="454" alt="ticket details - 3" src="https://github.com/user-attachments/assets/abb58ef5-2ef9-47fc-b22e-3a285e419e28" />
+### Ticket queue
+<img width="832" alt="ticket queue" src="https://github.com/user-attachments/assets/8e2eae5e-5383-4d5f-ab22-b2993150f2a4" />
 
-**Settings screen**
-<img width="832" height="454" alt="settings - 4" src="https://github.com/user-attachments/assets/3bfd7975-ace0-4df2-95a5-6d1d04165eab" />
+### Ticket details
+<img width="832" alt="ticket details" src="https://github.com/user-attachments/assets/abb58ef5-2ef9-47fc-b22e-3a285e419e28" />
 
-**Dashboard screen**
-<img width="857" height="454" alt="dashboard - 5" src="https://github.com/user-attachments/assets/940ac4b1-11ca-4167-932f-8541524f3209" />
+### Settings
+<img width="832" alt="settings" src="https://github.com/user-attachments/assets/3bfd7975-ace0-4df2-95a5-6d1d04165eab" />
 
-**Overdue tickets screen**
-<img width="832" height="454" alt="overdue tickets - 6" src="https://github.com/user-attachments/assets/485a07e9-5fc3-41dd-8144-2239542f4563" />
+### Dashboard
+<img width="857" alt="dashboard" src="https://github.com/user-attachments/assets/940ac4b1-11ca-4167-932f-8541524f3209" />
 
+### Overdue tickets
+<img width="832" alt="overdue tickets" src="https://github.com/user-attachments/assets/485a07e9-5fc3-41dd-8144-2239542f4563" />
 
 ## Role
 Built as a two-person team as part of an academic capstone, under academic and organizational supervision.
